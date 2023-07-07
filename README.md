@@ -1,8 +1,8 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)](https://rahulgorai123.io)
 <h1 align="center">Hi 👋, I'm Rahul Kumar Gorai</h1>
 <h3 align="center">Passionate Coder | MERN Stack Developer and ML Enthusiasts</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276…40866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 🌱 I’m currently learning  **Machine Learning**
 
 - 💬 Ask me about **MERN**
